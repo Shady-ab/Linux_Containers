@@ -1,1 +1,3 @@
-Shady Aburaya שאדי אבוריא Abed Wattad עבד אלקאדר ותד Mohamed Abu Foul מוחמד אבו פול
+Shady Aburaya שאדי אבוריא  325556835
+Abed Wattad עבד אלקאדר ותד 213726094
+Mohamed Abu Foul מוחמד אבו פול   315481077
