@@ -46,4 +46,3 @@ for i in $(seq 1 "$NUM"); do
 done
 
 echo "[✓] All containers are up and running."
-
